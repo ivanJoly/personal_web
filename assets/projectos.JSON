@@ -1,0 +1,28 @@
+{
+    "projectos":[
+      {
+        "id": "01",
+        "Titulo": "Limonhada",
+        "Imagen": "../assets/img/projects/01-limonhada-bolsos/imagen-principal.jpg",
+        "Link": "/projects/limonhada.html"
+      },
+      {
+        "id": "02",
+        "Titulo": "De carritos",
+        "Imagen": "../assets/img/projects/02-decarritos/imagen-principal.jpg",
+        "Link": "/projects/decarritos.html"
+      },
+      {
+        "id": "03",
+        "Titulo": "Easy List",
+        "Imagen": "../assets/img/projects/03-todolist/imagen-principal.jpg",
+        "Link": "/projects/to-do-list.html"
+      },
+      {
+        "id": "04",
+        "Titulo": "Espacio Salud",
+        "Imagen": "../assets/img/projects/04-espacio-salud/imagen-principal.jpg",
+        "Link": "/projects/espacio-salud.html"
+      }
+    ]
+  }

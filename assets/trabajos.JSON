@@ -1,0 +1,82 @@
+{
+    "trabajos":[
+      {
+        "id": "01",
+        "Titulo": "Baguen Propiedades",
+        "Imagen": "../assets/img/works/01-baguen-propiedades/imagen-principal.jpg",
+        "Link": "/works/baguen-propiedades.html"
+      },
+      {
+        "id": "02",
+        "Titulo": "Adrian Santello",
+        "Imagen": "../assets/img/works/02-adrian-santello/imagen-principal.jpg",
+        "Link": "/works/adrian-santello.html"
+      },
+      {
+        "id": "03",
+        "Titulo": "Xavier Martin",
+        "Imagen": "../assets/img/works/03-xavier-martin/imagen-principal.jpg",
+        "Link": "/works/xavier-martin.html"
+      },
+      {
+        "id": "04",
+        "Titulo": "ME Perfumery",
+        "Imagen": "../assets/img/works/04-me-perfumery/imagen-principal.jpg",
+        "Link": "/works/me-perfumery.html"
+      },
+      {
+        "id": "05",
+        "Titulo": "TMS Group",
+        "Imagen": "../assets/img/works/05-tms-group/imagen-principal.jpg",
+        "Link": "/works/tms-group.html"
+      },
+      {
+        "id": "06",
+        "Titulo": "Extreme Sex Shop",
+        "Imagen": "../assets/img/works/06-extreme-sex-shop/imagen-principal.jpg",
+        "Link": "/works/extreme-sex-shop.html"
+      },
+      {
+        "id": "07",
+        "Titulo": "Financimientos",
+        "Imagen": "../assets/img/works/07-financimientos/imagen-principal.jpg",
+        "Link": "/works/financimientos.html"
+      },
+      {
+        "id": "08",
+        "Titulo": "Cultivar Bienestar",
+        "Imagen": "../assets/img/works/08-cultivar-bienestar/imagen-principal.jpg",
+        "Link": "/works/cultivar-bienestar.html"
+      },
+      {
+        "id": "09",
+        "Titulo": "Rosana Simonassi",
+        "Imagen": "../assets/img/works/09-rosana-simonassi/imagen-principal.jpg",
+        "Link": "/works/rosana-simonassi.html"
+      },
+      {
+        "id": "10",
+        "Titulo": "Aluprin",
+        "Imagen": "../assets/img/works/10-aluprin/imagen-principal.jpg",
+        "Link": "/works/aluprin.html"
+      },
+      {
+        "id": "11",
+        "Titulo": "Eccentric Fox",
+        "Imagen": "../assets/img/works/11-eccentric-fox/imagen-principal.jpg",
+        "Link": "/works/eccentric-fox.html"
+      },
+      {
+        "id": "12",
+        "Titulo": "Super Oferta",
+        "Imagen": "../assets/img/works/12-super-oferta/imagen-principal.jpg",
+        "Link": "/works/super-oferta.html"
+      },
+      {
+        "id": "13",
+        "Titulo": "Desborde",
+        "Imagen": "../assets/img/works/13-desborde-musica/imagen-principal.jpg",
+        "Link": "/works/desborde-musica.html"
+      }
+    ]
+  }
